@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://65.0.176.242:9980/repository/vmart-release/</url>
+	      <url>http://3.109.213.231:9980/repository/vmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://65.0.176.242:9980/repository/vmart-snapshot/</url>
+	      <url>http://3.109.213.231:9980/repository/vmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
